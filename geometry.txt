@@ -1,0 +1,9 @@
+Fold                                                            1
+ID_PATCH                                                    10000
+N_Parcel                                                      119
+Parcel_Cover                                             0.808032
+TILE                                                       t30uxv
+dates-S2        {'0': 20180924, '1': 20180929, '2': 20181004, ...
+id                                                          10000
+geometry        MULTIPOLYGON (((391504.7355450863 6956805.91..52.
+Name: 0, dtype: object
